@@ -1,0 +1,5 @@
+Flask
+Gunicorn
+nltk
+keras 
+tensorflow
