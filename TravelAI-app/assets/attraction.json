@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Hoàn Kiếm Lake",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 1,
+		"description": "Hoàn Kiếm Lake is a lake in the center of Hanoi, the capital city of Vietnam. The lake is also known as Sword Lake or Lake of the Returned Sword, because of a legend that tells how a Vietnamese emperor returned a magic sword to a golden turtle god in the lake. The lake is a popular attraction for tourists and locals, who enjoy its scenic beauty and cultural significance. The lake has a small island with a temple called Ngoc Son Temple, which can be reached by a red wooden bridge. The lake is also home to some rare giant turtles, which are considered sacred by many Vietnamese people."
+	},
+	{
+		"name": "LOTTE Observation Deck",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 1,
+		"description": "LOTTE Observation Deck is an observatory on the top of LOTTE Center Hanoi, a skyscraper in the capital city of Vietnam. The observatory occupies the 65th floor of the tower, featuring a skywalk, a media gallery, a souvenir shop, and a sky bar. The observatory offers panoramic views of Hanoi from a height of 267 meters (876 feet)."
+	},
+
+	{
+		"name": "Yên Sở Park",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 1,
+		"description": "Yên Sở Park is a park in Hoàng Mai District, Hanoi, Vietnam. The park covers an area of 323 hectares, with a large lake and green spaces. The park is considered as the city’s “green lung” and a popular destination for recreation and relaxation. The park has various facilities and attractions, such as a maze garden, an outdoor theater, a boat house, a cultural village, an art exhibition hall, and a camping site. The park also hosts many events and festivals throughout the year."
+	},
+	{
+		"name": "Phố Đi Bộ Hồ Gươm",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 1,
+		"description": "Phố Đi Bộ Hồ Gươm is a pedestrian zone around Hoàn Kiếm Lake in the center of Hanoi, the capital city of Vietnam. The pedestrian zone includes 16 streets that are closed to traffic during weekends and holidays. The pedestrian zone is a popular attraction for tourists and locals, who enjoy its cultural and recreational activities. The pedestrian zone has various traditional games, street music and art, portrait painting, food stalls, and souvenir shops. The pedestrian zone also hosts many cultural events and festivals throughout the year."
+	},
+	{
+		"name": "Công Viên Thống Nhất",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 1,
+		"description": "Công Viên Thống Nhất is a park in Hanoi, Vietnam. The park was established in 1958 with the hope of reunifying the country. The park covers an area of 50 hectares, with a lake and many trees and flowers. The park is considered as the “green lung” of the city and a popular place for recreation and relaxation. The park has various facilities and attractions, such as a maze garden, an outdoor theater, a boat house, a cultural village, an art exhibition hall, and a camping site. The park also hosts many events and festivals throughout the year."
+	},
+
+	{
+		"name": "Temple of Literature",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 2,
+		"description": "Cu Chi Tunnels Historical Site, or Khu di tích lịch sử địa đạo Củ Chi, is a complex of underground tunnels and chambers that were used by the Viet Minh and the Viet Cong during the First and Second Indochina Wars. It is located in Củ Chi District, about 70 km from Ho Chi Minh City. It covers an area of 250 km and has three levels of depth. It was a strategic base for guerrilla warfare, as well as a living place for thousands of soldiers and civilians. It had many facilities, such as hospitals, kitchens, schools, workshops and traps. It is now a popular tourist attraction and a national heritage site that showcases the history and resilience of the Vietnamese people."
+	},
+	{
+		"name": "Ho Chi Minh Mausoleum",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 2,
+		"description": "Ho Chi Minh Mausoleum is a mausoleum that serves as the resting place of Vietnamese revolutionary leader and President Ho Chi Minh in Hanoi, Vietnam. It is a large building located in the center of Ba Dinh Square, where Ho, Chairman of the Workers’ Party of Vietnam, read the Declaration of Independence on September 2, 1945. The mausoleum was inspired by Lenin’s Mausoleum in Moscow but incorporates distinct Vietnamese architectural elements. It was built from 1973 to 1975 and it contains the embalmed body of Ho Chi Minh, which is preserved in a glass sarcophagus. The mausoleum is open to the public and attracts many visitors who want to pay respect to the national hero."
+	},
+	{
+		"name": "Hỏa Lò Prison",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 2,
+		"description": "Hỏa Lò Prison is a prison in Hanoi, Vietnam, that was used by the French colonists and later by the North Vietnamese during different periods of history. The prison was built by the French in 1896 to detain political prisoners and revolutionaries who fought against colonial rule. It was notorious for its harsh conditions and brutal torture methods. During the Vietnam War, the prison was used to hold American prisoners of war, who nicknamed it the “Hanoi Hilton”. The prison was partly demolished in 1993 to make way for a commercial development, but a section of it remains as a historical site and a museum. The museum displays exhibits and artifacts related to the prison’s history and the lives of its inmates."
+	},
+	{
+		"name": "Trung Tâm Nghệ Thuật Đương Đại VCCA - Royal City",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 2,
+		"description": "Trung Tâm Nghệ Thuật Đương Đại VCCA - Royal City is a contemporary art center in Hanoi, Vietnam. It is located on the basement floor of the Royal City shopping mall, and it covers an area of nearly 4,000 square meters. The art center showcases various forms of contemporary art, such as painting, sculpture, installation, photography and video. It also hosts exhibitions, workshops, talks and events that promote the development and appreciation of contemporary art in Vietnam and beyond. The art center aims to create a dynamic and creative space for artists and audiences to interact and exchange ideas."
+	},
+	{
+		"name": "Bảo Tàng Mỹ Thuật Việt Nam - Nguyễn Thái Học",
+		"country": "Vietnam",
+		"city": "Ha Noi City",
+		"type": 2,
+		"description": "Bảo Tàng Mỹ Thuật Việt Nam - Nguyễn Thái Học is a fine arts museum in Hanoi, Vietnam. It is located at 66 Nguyễn Thái Học Street, in a building that used to be a boarding school for French girls. The museum displays and preserves various artworks that represent the Vietnamese art history, from ancient times to the present day. The museum has a collection of over 20,000 artworks, including paintings, sculptures, ceramics, lacquerware, folk art and national treasures. The museum also hosts exhibitions, events and educational programs that promote the understanding and appreciation of Vietnamese art and culture."
+	}
+]
