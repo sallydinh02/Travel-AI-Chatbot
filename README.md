@@ -16,11 +16,11 @@ Folder TravelAIChatbot is the code for AI chatbot. The chatbot suggests top dest
 ![TravelAI 2 Chatbot p2](https://github.com/user-attachments/assets/d6aa4f78-6892-4d48-b203-b119fbad7699)
 
 * OCR & Translate:
-** English to Vietnamese
+English to Vietnamese
 ![TravelAI 3 OCR Eng Viet p1 update](https://github.com/user-attachments/assets/7d081434-191f-4521-9dc6-e87ef26c08b6)
 ![TravelAI 3 OCR Eng Viet p2](https://github.com/user-attachments/assets/94d372cb-7210-4678-b4c3-511d43abfb23)
 
-** Vietnamese to English
+Vietnamese to English
 ![TravelAI 3 OCR Viet Eng p1](https://github.com/user-attachments/assets/a78d554a-c2b8-4f62-8da6-e3c98fd523fd)
 
 * Travel: Search for a city, choose attractions and accommodations in the selected city
@@ -29,4 +29,5 @@ Folder TravelAIChatbot is the code for AI chatbot. The chatbot suggests top dest
 ![TravelAI 4 Travel accommodations](https://github.com/user-attachments/assets/7854a035-98ed-42fd-92b4-6f6aaa69fc95)
 
 * Settings (Logout)
-![Uploading TravelAI 5 Settings Logout.jpg…]()
+![TravelAI 5 Settings Logout](https://github.com/user-attachments/assets/0a6dc918-4758-4434-8e21-cb22798f2cca)
+
