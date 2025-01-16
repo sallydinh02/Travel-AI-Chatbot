@@ -8,10 +8,10 @@ Folder TravelAI-app is code for Flutter app with frontend and backend.
 Folder TravelAIChatbot is the code for AI chatbot. The chatbot suggests top destinations, attractions in a country/city, packing checklist, and travel plan and helps users search for places to stay.
 
 # Architecture diagram
-![Travel AI Architecture drawio](https://github.com/user-attachments/assets/d83c1134-f4a3-4209-80da-6deea6f72ab1)
+![Travel AI Architecture drawio](https://github.com/user-attachments/assets/546c4e69-4226-4065-a10c-fea2285a37f1)
 
 # Use case diagram
-![Use-case Diagram drawio](https://github.com/user-attachments/assets/2752f30c-ff3a-4252-bdd4-6c815aaf9437)
+![Use-case Diagram drawio](https://github.com/user-attachments/assets/da2ded15-9b1d-43b5-90cc-0d2815de606f)
 
 # Screenshot
 * Splash screen, Login and Signup
