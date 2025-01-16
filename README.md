@@ -1,4 +1,4 @@
-# Travel AI
+![Travel AI Architecture drawio](https://github.com/user-attachments/assets/54674523-795d-4c70-b09c-64326957190e)# Travel AI
 
 Travel AI is an AI-powered mobile app that assists travelers. I led a team of 3, designed UI/UX, implemented frontend using Flutter & backend using Firebase. I created a dataset, trained and integrated a custom chat bot that gives users tips for travel & suggests top destinations with 95% accuracy using Python, Keras, Tensorflow, NLTK and Flask. Moreover, the app is integrated with Tesseract API and Google MLKit for other AI features such as OCR and translating text from signboards.
 
@@ -8,10 +8,10 @@ Folder TravelAI-app is code for Flutter app with frontend and backend.
 Folder TravelAIChatbot is the code for AI chatbot. The chatbot suggests top destinations, attractions in a country/city, packing checklist, and travel plan and helps users search for places to stay.
 
 # Architecture diagram
-![Travel AI Architecture drawio](https://github.com/user-attachments/assets/546c4e69-4226-4065-a10c-fea2285a37f1)
+![Travel AI Architecture drawio](https://github.com/user-attachments/assets/3325723b-574d-4ddc-a2e8-2a2eb357a34e)
 
 # Use case diagram
-![Use-case Diagram drawio](https://github.com/user-attachments/assets/da2ded15-9b1d-43b5-90cc-0d2815de606f)
+![Use-case Diagram drawio](https://github.com/user-attachments/assets/ccaa4583-42ce-49d8-991d-d333c7f234fa)
 
 # Screenshot
 * Splash screen, Login and Signup
