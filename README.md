@@ -1,4 +1,4 @@
-![Travel AI Architecture drawio](https://github.com/user-attachments/assets/54674523-795d-4c70-b09c-64326957190e)# Travel AI
+# Travel AI
 
 Travel AI is an AI-powered mobile app that assists travelers. I led a team of 3, designed UI/UX, implemented frontend using Flutter & backend using Firebase. I created a dataset, trained and integrated a custom chat bot that gives users tips for travel & suggests top destinations with 95% accuracy using Python, Keras, Tensorflow, NLTK and Flask. Moreover, the app is integrated with Tesseract API and Google MLKit for other AI features such as OCR and translating text from signboards.
 
